@@ -1,0 +1,63 @@
+/* Halaman Index*/
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
+.run {
+    min-height: 30px;
+}
+.header {
+    width: 100%;
+    margin: 0 auto;
+    padding: 35px 50px;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    background-color: #aaa;
+    background-image: url(https://coffeebreakz.com/wp-content/uploads/2018/12/Wonderful-100-Cool-Science-Wallpaper-Background-With-Resolution-1920-x-1920-.jpg);
+    background-size: cover;
+    font-family: verdana;
+}
+.header h2 {
+    font-family: monospace;
+    font-size: 45px;
+}
+.menu {
+    min-height: 20px;
+
+}
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #006745;
+}
+.menu li {
+    float: left;
+}
+.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.menu li a:hover {
+    background-color: #DB7093;
+}
+.content {
+    background-color: #ddd7f0;
+    min-height: 600px;
+    padding-top: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 2px;
+}
+.footer {
+    min-height: 50px;
+    background-color: #006745;
+    color: white;
+    text-align: center;
+    padding: 3px 8px;
+}
